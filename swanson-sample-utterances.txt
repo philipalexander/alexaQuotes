@@ -1,0 +1,19 @@
+getQuote	get quote
+getQuote	get a quote
+getQuote	say quote
+getQuote	say a quote
+getQuote	tell quote
+getQuote	tell a quote
+getQuote	give quote
+getQuote	get me quote
+getQuote	say me quote
+getQuote	tell me quote
+getQuote	give me quote
+getQuote	get me phrase
+getQuote	say me phrase
+getQuote	tell me phrase
+getQuote  tell me a phrase
+getQuote	give me phrase
+getQuote	for a phrase
+getQuote	for a quote
+getQuote	for a saying
